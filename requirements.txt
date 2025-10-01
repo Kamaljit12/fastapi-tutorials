@@ -1,2 +1,2 @@
 fastapi[standard]
-ipykernel
+uvicorn[standard]

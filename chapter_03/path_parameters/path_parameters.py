@@ -1,5 +1,6 @@
 from fastapi import FastAPI, Path
 from enum import Enum
+import uvicorn
 
 
 app = FastAPI()
